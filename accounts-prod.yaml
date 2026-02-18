@@ -2,13 +2,14 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Welcome to Nexus Bank accounts service running in production"
+  message: "Welcome to Nexus Bank accounts service..."
   contactDetails:
     name: "Harsha - Technical Lead"
     email: "{cipher}5b842eb270f8731970fe646621915f3a897a4875302312ef782d47c540560d5a1be171476efd45f89b84c87f7c1330f3"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
+
 
 
 
